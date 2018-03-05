@@ -1,0 +1,6 @@
+  __author__ = 'linux vfast'
+
+from user_login import run_progam
+
+if __name__ == '__main__':
+    run_progam()
